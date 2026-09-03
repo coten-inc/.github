@@ -12,9 +12,11 @@
      not one per edited file or heading. Keep every section here short. -->
 
 ### Links
-<!-- The Notion epic this belongs to, if there is one. A design doc link is
-     optional. Summarize what is behind each link — a bare URL is useless once
-     it goes stale. -->
+<!-- The Notion epic this belongs to, if there is one, written as
+     [EPIC-<number>](https://www.notion.so/<32-digit page id>) — one-line title.
+     Drop the slug from the Notion URL; only the id matters.
+     A design doc link is optional. Summarize any other link — a bare URL is
+     useless once it goes stale. -->
 -
 
 ### Background
