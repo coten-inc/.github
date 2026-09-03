@@ -24,16 +24,17 @@
 -
 
 ## Risk
-<!-- Check what applies and add details. Delete this section if none apply. -->
+<!-- Check what applies and add details. Skip this section if none apply. -->
 - [ ] DB change or migration:
 - [ ] Depends on another PR / merge order matters:
 - [ ] Affects existing behavior:
 - [ ] Security-related:
 
 ## Verification
-<!-- What you actually ran or checked, so a reviewer can repeat it.
-     Attach evidence (screenshot, recording) for UI changes. -->
-- [ ]
+<!-- How you confirmed this works, when the diff does not show it on its own.
+     Attach evidence (screenshot, recording) for UI changes.
+     Skip this section if the tests in this PR already cover it. -->
+-
 
-## Checklist
-- [ ] Self-reviewed the full diff, and this description still matches the final state of the PR
+<!-- Before requesting review, re-read the above: it should describe the PR as
+     it is now, not as you planned it when you opened it. -->
