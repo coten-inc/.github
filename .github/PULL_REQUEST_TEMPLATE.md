@@ -3,7 +3,8 @@
 <!-- Write the body in English or Japanese, whichever you can express the
      change most clearly in. -->
 <!-- Title: <type>: one imperative line that stands alone in the commit history.
-     <type> is fix, feat, refactor or chore — the primary intent of the change.
+     <type> is the conventional commit type this repository already uses
+     (feat, fix, refactor, chore, docs, test, perf, ci, ...).
      Good: "feat: delete the FizzBuzz RPC and replace it with the new system"
      Bad:  "fix: fix bug", "chore: moving code from A to B" -->
 
