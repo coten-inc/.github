@@ -9,8 +9,9 @@
 ## Summary
 
 ### Links
-<!-- Issues, tickets, design docs. Summarize what is behind each link —
-     a bare URL is useless once it goes stale. -->
+<!-- The Notion epic this belongs to, if there is one. A design doc link is
+     optional. Summarize what is behind each link — a bare URL is useless once
+     it goes stale. -->
 -
 
 ### Background
