@@ -2,9 +2,10 @@
      when generating a summary or review comments for this PR. -->
 <!-- Write the body in English or Japanese, whichever you can express the
      change most clearly in. -->
-<!-- Title: one imperative line that stands alone in the commit history.
-     Good: "Delete the FizzBuzz RPC and replace it with the new system"
-     Bad:  "Fix bug", "Fix build", "Moving code from A to B" -->
+<!-- Title: <type>: one imperative line that stands alone in the commit history.
+     <type> is fix, feat, refactor or chore — the primary intent of the change.
+     Good: "feat: delete the FizzBuzz RPC and replace it with the new system"
+     Bad:  "fix: fix bug", "chore: moving code from A to B" -->
 
 ## Summary
 
@@ -22,16 +23,7 @@
      Bad:  "Data is not displayed" -> "Data is displayed" (no cause, no impact) -->
 -
 
-## Type and risk
-
-### Type of change
-<!-- Pick the primary intent. -->
-- [ ] `fix` — bug fix
-- [ ] `feat` — new behavior
-- [ ] `refactor` — no behavior change
-- [ ] `chore` — docs, tests, tooling, dependencies
-
-### Risk
+## Risk
 <!-- Check what applies and add details. Delete this section if none apply. -->
 - [ ] DB change or migration:
 - [ ] Depends on another PR / merge order matters:
