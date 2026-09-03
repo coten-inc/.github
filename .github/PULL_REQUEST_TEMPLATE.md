@@ -8,6 +8,8 @@
      Bad:  "fix: fix bug", "chore: moving code from A to B" -->
 
 ## Summary
+<!-- What changes, in 2-4 bullets. One bullet per outcome a reader cares about,
+     not one per edited file or heading. Keep every section here short. -->
 
 ### Links
 <!-- The Notion epic this belongs to, if there is one. A design doc link is
